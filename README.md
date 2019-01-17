@@ -1,6 +1,6 @@
 # Winter Camp of Quantitative Economics, Shenzhen 2019
 
-The 2018 Winter Camp of Quantitative Economics is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have an ambition to pursue a Ph.D. in Economics or related fields. 
+The 2019 Winter Camp of Quantitative Economics and Finance is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have the ambition pursue a Ph.D. in Economics and Finance.
 
 ## 1. Supporting Organizations
 
@@ -14,12 +14,14 @@ Professor Thomas Sargent, the 2011 Nobel laureate in Economics, serves as the Di
 
 
 
+
 ### [**Peking University HSBC Business School**](http://english.phbs.pku.edu.cn/)
-Peking University HSBC Business School (PHBS) was founded in 2004 with the intention to advance Peking University (PKU)’s involvement in the global economics, finance, and management research. 
 
-Located in Shenzhen, PHBS brings Peking University’s historical presence and first-tier business education programs to the country’s south and benefits from the dynamic and entrepreneurial spirit of the thriving city. As an additional advantage, the proximity to Hong Kong, a world financial hub, provides unmatched opportunities for the entire campus community. 
+Peking University HSBC Business School (PHBS) was founded in 2004 with the intention to advance Peking University (PKU)’s involvement in the global economics, finance, and management research.
 
-PHBS currently offers a doctoral program, specialized Master’s programs, dual-degree-Master’s programs with the National University of Singapore, a MBA program, an Executive MBA program, and numerous executive development programs. 
+Located in Shenzhen, PHBS brings Peking University’s historical presence and first-tier business education programs to the country’s south and benefits from the dynamic and entrepreneurial spirit of the thriving city. As an additional advantage, the proximity to Hong Kong, a world financial hub, provides unmatched opportunities for the entire campus community.
+
+PHBS currently offers a doctoral program, specialized Master’s programs, dual-degree-Master’s programs with the National University of Singapore, a MBA program, an Executive MBA program, and numerous executive development programs.
 
 To provide in-depth Chinese educational experiences with a global perspective, PHBS admits international students into the specialized Master’s and MBA programs. PHBS is accredited for EPAS by EFMD and is in the process of AACSB accreditation.
 
@@ -27,98 +29,59 @@ To provide in-depth Chinese educational experiences with a global perspective, P
 
 ### [**QuantEcon**](https://quantecon.org/)
 
-QuantEcon is a NumFOCUS fiscally sponsored project dedicated to the development and documentation of modern open source computational tools for economics, econometrics, and decision making. We welcome contributions and collaboration from the economics community and other partner organizations.
+QuantEcon is a NumFOCUS fiscally sponsored project dedicated to development and documentation of modern open source computational tools for economics, econometrics, and decision making. We welcome contributions and collaboration from the economics community and other partner organizations.
 
 
 
 ## 2. Winter Camp Schedule
 
-The Winter Camp provides a 10-day intensive training in Python programming and its
-applications in Economics. Roughly, in the first 5 days, we focus on handing out tools, and in the
-later 5 days, instructors will teach topics in Economics.
+The Winter Camp provides an 8-day intensive training in Python programming and its applications in Economics. Professor Sargent has designed the Winter Camp classes with a focus on teaching a useful set of quantitative tools used in modern Economics. Roughly, the first 2 days will be devoted to review basic syntax and packages in Python. In the next 3 days, we focus on handing out tools, and in the later 3 days, various applications of the tools in Economics will be covered.
 
-On each day, lectures will be held in the morning from 9:00AM to 12:00PM. Then in the
-afternoon, from 2:00PM to 6:00PM, students will be divided into groups to work on assigned
-projects. Computer lab will remain open between 19:30PM to 22:00PM for students who wish to study in the evening. Several guest lectures will be offered in early afternoons throughout the Winter Camp, in which
-Economists from various fields will talk about how the tools and methods we go over in the
-Winter Camp are applied in real-life Economic research.
-
-Below is a summary schedule of the classes and major events of the Winter Camp.
-
-### Week 1
-
-|     Day       | Time | Event     | Instructor      | Venue                                     |
-| --------------| ------------- | --------- | --------------- | ------------------------------------------ |
-| January 22    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
-|               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
-| January 23    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
-|               |  10:00-12:00  |  Python basics: Introduction       | Natasha Watkins  |  PHBS RM513  |
-|               |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM513  |
-|  January 24   | 09:00-12:00  |  Python basics: Numpy and Matplotlib    | Xianfeng Li  |  PHBS RM513  |
-|  January 25   | 09:00-12:00  | Python basics: SymPy and SciPy        | Xianfeng Li   |  PHBS RM513  |
-|               |  14:00-15:30  | Guest lecture      | Jun Nie  |  PHBS RM513  |
-|  January 26   | 09:00-12:00  | Company Visit     |    | PingAn Technology  |    
-|               | 13:00 - 16:30  | Museum Tour      |  |  Shenzhen Museum |
-|  January 27   | 09:00-12:00  | Dynamic programming and OOP   | Jake Zhao  |  PHBS RM513  |
-|  January 28   | 09:00-12:00  | Pandas   | Natasha Watkins   |  PHBS RM513  |
+On each day, lectures will be held in the morning from 9:00AM to 12:00PM, and then in the afternoon, from 14:00PM to 17:30PM. Computer lab will remain open between 19:00PM to 22:00PM in the evening for students to do after-class practices and preview for the next day’s classes. After-class practices should be completed and submitted in groups.
 
 
-### Week 2
-
-|     Day       | Time | Event     | Instructor      | Venue                                     |
-| --------------| ------------- | --------- | --------------- | ------------------------------------------ |
-|  January 29   | 09:00-12:00  | Economics: Dynamic stochastic models  | John Stachurski  |  PHBS RM513  |
-|               |  14:00-15:30  | A dialogue with Thomas Sargent      | Thomas Sargent  |  PHBS RM509  |
-| January 30    |  09:00-12:00  |  Economics: Asset pricing  |  John Stachurski  | PHBS RM513         |
-|               |  14:00-15:30  |  Guest lecture   | Pengfei Wang  |  PHBS RM513  |
-| January 31    |  09:00-12:00  |  Economics: Asset pricing  |  John Stachurski  | PHBS RM513         |
-|  February 1   | 09:00-12:00  | Economics: Inequality        | Shenghao Zhu   |  PHBS RM513  |
-|  February 2    | 09:00-12:00  | Economics: Exchange rate forecast    |  Jiao Shi  | PHBS RM513  |    
-|               | 14:00-15:30  | Guest lecture      | Tao Zha |  PHBS RM513 |
-|               | 17:00-18:00  | Closing ceremony   |  |  PHBS RM509 |
-|  February 3   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
 
 
-## 3. Instructors and Speakers
-**Xianfeng Li**                                           
-Associate Professor                        
-Peking University School of Electronic and Computer Engineering 
+## 3. Winter Camp Instructors
 
-**Jun Nie**                                                
-Senior Economist   
-Federal Reserve Bank of Kansas City
+**Quentin BATISTA**
+Researcher
+Sargent Institute of Quantitative Economics and Finance
+
+**Brandon KAPLOWITZ**
+Predoctoral fellow for Thomas Sargent at New York University
 
 **Thomas Sargent**                              
 Professor at New York University                                        
 Director of Sargent Institute of Quantitative Economics and Finance 
 Peking University HSBC Business School
 
+**Xianhua PENG**
+Associate Professor
+Peking University HSBC Business School
+
+
 **Jiao Shi**                                           
 Assistant Professor                          
 Peking University HSBC Business School
 
-**John Stachurski**                                 
-Professor at Research School of Economics         
-Australia National University
-
-**Pengfei Wang**        
-Professor at Department of Economics                                                          
-The Hong Kong University of Science and Technology
-
 **Natasha Watkins**                               
 QuantEcon Early Career Researcher 
 
-**Tao Zha**                                              
-Research Executive Director  
-Federal Reserve Bank of Atlanta 
 
 **Jake Zhao**                                            
 Assistant Professor                          
 Peking University HSBC Business School
 
-**Shenghao Zhu**                                   
-Associate Professor                          
-School of Economics and Management, Beihang University
+**Peifan WU**
+Ph.D. Candidate
+Stern School of Business
+New York University
+
+
+## 4. Winter Camp Program
+
+
 
 ## 5. Ph.D. Program in Quantitative Economics
 
