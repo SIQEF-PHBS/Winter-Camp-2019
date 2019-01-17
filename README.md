@@ -217,7 +217,7 @@ Dean of HSBC Business School
 
 
 ## 8. Campus Map
-![alt text](https://github.com/SIQEF-PHBS/Winter-Camp-2019/blob/readme-edit/campus_map.png)
+![alt text](https://github.com/SIQEF-PHBS/Winter-Camp-2019/blob/master/campus_map.png)
 
 ## 9. PhD Program in Quantitative Economics 
 
