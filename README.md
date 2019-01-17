@@ -89,35 +89,35 @@ Dean of HSBC Business School
 
 |     Day       | Time | Event     | Instructor      | Venue                                     |
 | --------------| ------------- | --------- | --------------- | ------------------------------------------ |
-| January 20    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
+| Jan 20    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
 |               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
 |               |  16:00-19:00  | PHBS Building Tour, PKUSZ Campus Tour, Dinner |   | PHBS & PKU Cafeteria|
 |               |  19:00-20:30  | PHBS Introduction |  Wen HAI | PHBS RM333|
-| January 21    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
+| Jan 21    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
 |               |  10:00-12:00  |  Introduction to Python       |Natasha WATKINS    |  PHBS RM513  |
 |               |  14:00-17:30  | Scientific Libraries      | Natasha WATKINS  |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
-| January 22    |  09:00-12:00  |   Advanced Python Programming | Natasha WATKINS | PHBS RM513         |
+| Jan 22    |  09:00-12:00  |   Advanced Python Programming | Natasha WATKINS | PHBS RM513         |
 |               |  14:00-17:30  | Samuelson multiplier and other examples | Natasha WATKINS  |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
-| January 23    |  09:00-12:00  |  Pandas | Quentin BATISTA  | PHBS RM513         |
+| Jan 23    |  09:00-12:00  |  Pandas | Quentin BATISTA  | PHBS RM513         |
 |               |  14:00-17:30  | Regression and Maximum likelihood  | Jiao SHI |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
-| January 24    |  09:00-12:00  |  Linear Algebra with Python| Xianhua PENG  | PHBS RM513         |
+| Jan 24    |  09:00-12:00  |  Linear Algebra with Python| Xianhua PENG  | PHBS RM513         |
 |               |  14:00-17:30  |Linear Algebra with Python  | Xianhua PENG |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
-| January 25    |  09:00-12:00  |  LLN and CLT| Peifan WU  | PHBS RM513         |
+| Jan 25    |  09:00-12:00  |  LLN and CLT| Peifan WU  | PHBS RM513         |
 |               |  14:00-17:30  | LLN and CLT  | Peifan WU |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
-| January 26    |  09:00-12:00  |  Finite Markov Chains | Jiao SHI   | PHBS RM513         |
+| Jan 26    |  09:00-12:00  |  Finite Markov Chains | Jiao SHI   | PHBS RM513         |
 |               |  14:00-17:30  | Finite Markov Chains  | Jake ZHAO |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
-| January 27    |  09:00-12:00  |  Convex Optimization | Xianhua PENG   | PHBS RM513         |
+| Jan 27    |  09:00-12:00  |  Convex Optimization | Xianhua PENG   | PHBS RM513         |
 |               |  14:00-17:30  |Bayesian Inference  | Brandon KAPLOWITZ |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
-| January 28    |  09:00-12:00  | ODE and integral equations in Python  | Brandon KAPLOWITZ   | PHBS RM513         |
+| Jan 28    |  09:00-12:00  | ODE and integral equations in Python  | Brandon KAPLOWITZ   | PHBS RM513         |
 |               |  14:00-17:30  |Introduction to Machine Learning  | Quentin BATISTA|  PHBS RM513  |
 |               |  19:00-18:00  | Closing Ceremony      |  |  PHBS RM509  |
-|  January 20   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
+| Jan 20   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
 
 
