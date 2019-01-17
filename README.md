@@ -171,7 +171,7 @@ Dean of HSBC Business School
 #### GROUP 4: Zihao MAO
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
-| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+| ---------- | -------------- | -------------- | --------------- |
 |Xiaolin WANG|	Renmin University of China|	School of Economics|	Economics|	
 |Kaihong SONG|	Peking University	|School of Life Sciences|	Life Sciences	|
 |Yajie ZHANG	|Shanghai University of Finance and Economics|	School of Statistics and Management	|Statistical Experiment|	
