@@ -160,7 +160,7 @@ Dean of HSBC Business School
 |Xuelai LI	|Peking University	|Yuanpei College	|Finance|	18810883328	|lixuelai@pku.edu.cn|
 |Hao YANG	|Beihang University	|School of Humanities and Social Sciences|	Economics	|15652579355|	HaoYang@buaa.edu.cn|
 
-**Group 3: Gan WU **
+**Group 3: Gan WU**
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
@@ -169,7 +169,7 @@ Dean of HSBC Business School
 |Yuran TU	|Nankai University|	Chemistry Department|	Applied Chemistry	|15222650518	|NKU_tyr@163.com|
 |Jiajia ZHENG	|Peking University |	School of Life Science	|Biology Science|	15801699036|	zhengjiajia@pku.edu.cn|
 
-**Group 4: Zihao MAO **
+**Group 4: Zihao MAO**
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
@@ -177,3 +177,42 @@ Dean of HSBC Business School
 |Kaihong SONG|	Peking University	|School of Life Sciences|	Life Sciences	|18811317989|	704156579@qq.com|
 |Yajie ZHANG	|Shanghai University of Finance and Economics|	School of Statistics and Management	|Statistical Experiment|	15375498273	|15375498273@163.com|
 |Yi ZHANG	|Xiamen University|	School of Mathematical Sciences|	Statistics	|13906040026|	zy_eva_email@163.com|
+
+**Group 5: Shiqi ZHANG**
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Zilong BI|	Peking University|	School of Economics|	Resource and Environmental Economics|	15701576532|	bizilong@pku.edu.cn|
+|Yucheng JI|	Peking University|	School of Physics|	Physics|	18801386327|	1600011355@pku.edu.cn|
+|Yuxin CHEN|	Jilin University|	School of Economics|	Finance|	13645004337|	541539105@qq.com|
+|Linlin CUI|	Southwestern University of Finance and Economics|	Research Institute of Economics and Management|	Finance|	17780624881|Cuill97@163.com|
+
+**Group 6: Ge SUN**
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Zhuoyuan GAO|	Nankai University|	International Economics and Trade|	International Economics and Trade|	18636168780|	gandme118@163.com|
+|Zehao HUANG|	Central University of Finance and Economics|	School of Finance|	Finance|	15611877229|	h727920256@163.com|
+|Yue LIAO|	Central University of Finance and Economics|	China Economics and Management Academy(CEMA)|	Mathematical Economics and Mathematics|	13051996133|	ly_2756@163.com|
+|Bingzhao LI|	Shanghai University of Finance and Economics|	School of Economics|	Mathematical Economics|	18702132715	bingzhao_li@163.com|
+
+
+**Group 7: Siyang LI**
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+| Lintong SHI|	Peking University|	School of Economics|	Public Finance|	18801392867|	christineshi@pku.edu.cn|
+|Anying BAI|	Peking University|	Health and Science Center|	Preventive Medicine|	13332873952|	782488802@qq.com|
+|Heming XU|	Jilin University|	Business school|	Accounting|	17843126113|	xuhmleo@163.com|
+|Han YAN|	Sichuan University|	School of Mathematics|	Mathematics and Applied Mathematics|	13072852896|	1075894936@qq.com|
+
+
+**Group 8: Yeda DU & Lingdi XU**
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Siyuan YANG|	Peking University|	School of Physics|	Physics|	18810773899|	1600011352@pku.edu.cn|
+|Junhe YI|	Peking University|	College of Engineering|	Material Science and Engineering|	13392624178|	yijh1998@pku.edu.cn|
+|Zixi ZHANG|	Shandong University|	Management|	Accounting|	15098727659|	910408123@qq.com|
+|Chunzi HUANG|	Peking University|	School of Economics|	Finance|	18211077566|	1500015457@pku.edu.cn|
+
