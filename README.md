@@ -150,3 +150,14 @@ Dean of HSBC Business School
 | Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|13026623732|xinruihuang@qq.com|
 |Jiawei WU |	University of International Business and Economics|	School of International Economics and Trade	|Economics (Honor)|	13952590829	|wujiawei.rabbit@163.com|
 |Yifan ZHONG|	Sichuan University|	Physics	|Physics|	13408031458	|jokiva@outlook.com|
+
+**GROUP 2, TUTOR: Linsheng ZHUANG**
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Junsong CHEN	|Peking University|	School of Life Science|	Bioscience|	18800192595|	1600012172@pku.edu.cn|
+|Yumin HU	|Peking University	|College of Environmental Science and Engineering	|Environmental Engineering|	13676047125|	hhhym110730@pku.edu.cn|
+|Xuelai LI	|Peking University	|Yuanpei College	|Finance|	18810883328	|lixuelai@pku.edu.cn|
+|Hao YANG	|Beihang University	|School of Humanities and Social Sciences|	Economics	|15652579355|	HaoYang@buaa.edu.cn|
+
+
