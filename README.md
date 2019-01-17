@@ -173,7 +173,7 @@ Dean of HSBC Business School
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-|Xiaolin WANG|	Renmin University of China|	School of Economics	Economics|	18191131261	|x.wang@ruc.edu.cn|
+|Xiaolin WANG|	Renmin University of China|	School of Economics|	Economics|	18191131261	|x.wang@ruc.edu.cn|
 |Kaihong SONG|	Peking University	|School of Life Sciences|	Life Sciences	|18811317989|	704156579@qq.com|
 |Yajie ZHANG	|Shanghai University of Finance and Economics|	School of Statistics and Management	|Statistical Experiment|	15375498273	|15375498273@163.com|
 |Yi ZHANG	|Xiamen University|	School of Mathematical Sciences|	Statistics	|13906040026|	zy_eva_email@163.com|
@@ -194,7 +194,7 @@ Dean of HSBC Business School
 |Zhuoyuan GAO|	Nankai University|	International Economics and Trade|	International Economics and Trade|	18636168780|	gandme118@163.com|
 |Zehao HUANG|	Central University of Finance and Economics|	School of Finance|	Finance|	15611877229|	h727920256@163.com|
 |Yue LIAO|	Central University of Finance and Economics|	China Economics and Management Academy(CEMA)|	Mathematical Economics and Mathematics|	13051996133|	ly_2756@163.com|
-|Bingzhao LI|	Shanghai University of Finance and Economics|	School of Economics|	Mathematical Economics|	18702132715	bingzhao_li@163.com|
+|Bingzhao LI|	Shanghai University of Finance and Economics|	School of Economics|	Mathematical Economics|	18702132715	|bingzhao_li@163.com|
 
 
 **Group 7: Siyang LI**
