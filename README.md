@@ -44,17 +44,16 @@ On each day, lectures will be held in the morning from 9:00AM to 12:00PM, and th
 
 ## 3. Winter Camp Instructors
 
-**Quentin BATISTA**
-
-Researcher
+**Quentin BATISTA**<br>
+Researcher<br>
 Sargent Institute of Quantitative Economics and Finance
 
-**Brandon KAPLOWITZ**
+**Brandon KAPLOWITZ**<br>
 Predoctoral fellow for Thomas Sargent at New York University
 
-**Thomas Sargent**                              
-Professor at New York University                                        
-Director of Sargent Institute of Quantitative Economics and Finance 
+**Thomas Sargent** <br>                             
+Professor at New York University   <br>                                     
+Director of Sargent Institute of Quantitative Economics and Finance <br>
 Peking University HSBC Business School
 
 **Xianhua PENG**
