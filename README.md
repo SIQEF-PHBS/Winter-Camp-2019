@@ -144,7 +144,6 @@ Dean of HSBC Business School
 | GROUP 1| TUTOR: Junjie ZHANG| | |
 |--|--|--|--|
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
-| ---------- | -------------- | -------------- | --------------- |
 | Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|
 | Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|
 |Jiawei WU |	University of International Business and Economics|	School of International Economics and Trade	|Economics (Honor)|	
