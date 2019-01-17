@@ -45,6 +45,7 @@ On each day, lectures will be held in the morning from 9:00AM to 12:00PM, and th
 ## 3. Winter Camp Instructors
 
 **Quentin BATISTA**
+
 Researcher
 Sargent Institute of Quantitative Economics and Finance
 
