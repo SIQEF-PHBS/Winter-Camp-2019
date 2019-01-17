@@ -85,18 +85,14 @@ New York University
 
 |     Day       | Time | Event     | Instructor      | Venue                                     |
 | --------------| ------------- | --------- | --------------- | ------------------------------------------ |
-| January 22    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
+| January 20    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
 |               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
 |               |  16:00-19:00  | PHBS Building Tour, PKUSZ Campus Tour, Dinner |   | PHBS & PKU Cafeteria|
-|               |  19:00-20:30  | PHBS Introduction |  Wen HAI Professor Vice Chairman of Peking University Council
-Dean of HSBC Business School  | 19:00-20:30	PHBS Introduction	Wen HAI
-Professor
-Vice Chairman of Peking University Council
-Dean of HSBC Business School	PHBS RM333
-|
-| January 23    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
-|               |  10:00-12:00  |  Python basics: Introduction       | Natasha Watkins  |  PHBS RM513  |
-|               |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM513  |
+|               |  19:00-20:30  | PHBS Introduction |  Wen HAI | PHBS RM333|
+| January 21    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
+|               |  10:00-12:00  |  Introduction to Python       | Natasha Watkins  |  PHBS RM513  |
+|               |  14:00-17:30  | Scientific Libraries      | Natasha Watkins  |  PHBS RM513  |
+|               |  19:00-20:00  | Homework & Preview      |  |  PHBS RM513  |
 |  January 24   | 09:00-12:00  |  Python basics: Numpy and Matplotlib    | Xianfeng Li  |  PHBS RM513  |
 |  January 25   | 09:00-12:00  | Python basics: SymPy and SciPy        | Xianfeng Li   |  PHBS RM513  |
 |               |  14:00-15:30  | Guest lecture      | Jun Nie  |  PHBS RM513  |
