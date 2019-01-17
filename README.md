@@ -169,3 +169,11 @@ Dean of HSBC Business School
 |Yuran TU	|Nankai University|	Chemistry Department|	Applied Chemistry	|15222650518	|NKU_tyr@163.com|
 |Jiajia ZHENG	|Peking University |	School of Life Science	|Biology Science|	15801699036|	zhengjiajia@pku.edu.cn|
 
+**Group 4: Zihao MAO **
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Xiaolin WANG|	Renmin University of China|	School of Economics	Economics|	18191131261	|x.wang@ruc.edu.cn|
+|Kaihong SONG|	Peking University	|School of Life Sciences|	Life Sciences	|18811317989|	704156579@qq.com|
+|Yajie ZHANG	|Shanghai University of Finance and Economics|	School of Statistics and Management	|Statistical Experiment|	15375498273	|15375498273@163.com|
+|Yi ZHANG	|Xiamen University|	School of Mathematical Sciences|	Statistics	|13906040026|	zy_eva_email@163.com|
