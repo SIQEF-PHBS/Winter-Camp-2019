@@ -1,6 +1,6 @@
 # Winter Camp of Quantitative Economics, Shenzhen 2019
 
-The 2018 Winter Camp of Quantitative Economics is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have an ambition to pursue a Ph.D. in Economics or related fields. 
+The 2019 Winter Camp of Quantitative Economics and Finance is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have the ambition pursue a Ph.D. in Economics and Finance.
 
 ## 1. Supporting Organizations
 
@@ -14,12 +14,14 @@ Professor Thomas Sargent, the 2011 Nobel laureate in Economics, serves as the Di
 
 
 
+
 ### [**Peking University HSBC Business School**](http://english.phbs.pku.edu.cn/)
-Peking University HSBC Business School (PHBS) was founded in 2004 with the intention to advance Peking University (PKU)’s involvement in the global economics, finance, and management research. 
 
-Located in Shenzhen, PHBS brings Peking University’s historical presence and first-tier business education programs to the country’s south and benefits from the dynamic and entrepreneurial spirit of the thriving city. As an additional advantage, the proximity to Hong Kong, a world financial hub, provides unmatched opportunities for the entire campus community. 
+Peking University HSBC Business School (PHBS) was founded in 2004 with the intention to advance Peking University (PKU)’s involvement in the global economics, finance, and management research.
 
-PHBS currently offers a doctoral program, specialized Master’s programs, dual-degree-Master’s programs with the National University of Singapore, a MBA program, an Executive MBA program, and numerous executive development programs. 
+Located in Shenzhen, PHBS brings Peking University’s historical presence and first-tier business education programs to the country’s south and benefits from the dynamic and entrepreneurial spirit of the thriving city. As an additional advantage, the proximity to Hong Kong, a world financial hub, provides unmatched opportunities for the entire campus community.
+
+PHBS currently offers a doctoral program, specialized Master’s programs, dual-degree-Master’s programs with the National University of Singapore, a MBA program, an Executive MBA program, and numerous executive development programs.
 
 To provide in-depth Chinese educational experiences with a global perspective, PHBS admits international students into the specialized Master’s and MBA programs. PHBS is accredited for EPAS by EFMD and is in the process of AACSB accreditation.
 
@@ -27,108 +29,203 @@ To provide in-depth Chinese educational experiences with a global perspective, P
 
 ### [**QuantEcon**](https://quantecon.org/)
 
-QuantEcon is a NumFOCUS fiscally sponsored project dedicated to the development and documentation of modern open source computational tools for economics, econometrics, and decision making. We welcome contributions and collaboration from the economics community and other partner organizations.
+QuantEcon is a NumFOCUS fiscally sponsored project dedicated to development and documentation of modern open source computational tools for economics, econometrics, and decision making. We welcome contributions and collaboration from the economics community and other partner organizations.
 
 
 
 ## 2. Winter Camp Schedule
 
-The Winter Camp provides a 10-day intensive training in Python programming and its
-applications in Economics. Roughly, in the first 5 days, we focus on handing out tools, and in the
-later 5 days, instructors will teach topics in Economics.
+The Winter Camp provides an 8-day intensive training in Python programming and its applications in Economics. Professor Sargent has designed the Winter Camp classes with a focus on teaching a useful set of quantitative tools used in modern Economics. Roughly, the first 2 days will be devoted to review basic syntax and packages in Python. In the next 3 days, we focus on handing out tools, and in the later 3 days, various applications of the tools in Economics will be covered.
 
-On each day, lectures will be held in the morning from 9:00AM to 12:00PM. Then in the
-afternoon, from 2:00PM to 6:00PM, students will be divided into groups to work on assigned
-projects. Computer lab will remain open between 19:30PM to 22:00PM for students who wish to study in the evening. Several guest lectures will be offered in early afternoons throughout the Winter Camp, in which
-Economists from various fields will talk about how the tools and methods we go over in the
-Winter Camp are applied in real-life Economic research.
+On each day, lectures will be held in the morning from 9:00AM to 12:00PM, and then in the afternoon, from 14:00PM to 17:30PM. Computer lab will remain open between 19:00PM to 22:00PM in the evening for students to do after-class practices and preview for the next day’s classes. After-class practices should be completed and submitted in groups.
 
-Below is a summary schedule of the classes and major events of the Winter Camp.
+
+
+
+## 3. Winter Camp Instructors
+
+**Quentin BATISTA**<br>
+Researcher<br>
+Sargent Institute of Quantitative Economics and Finance
+
+**Brandon KAPLOWITZ**<br>
+Predoctoral fellow for Thomas Sargent at New York University
+
+**Thomas Sargent**<br>
+Professor at New York University<br>
+Director of Sargent Institute of Quantitative Economics and Finance<br>
+Peking University HSBC Business School
+
+**Xianhua PENG**<br>
+Associate Professor<br>
+Peking University HSBC Business School
+
+**Jiao Shi**<br>
+Assistant Professor<br>
+Peking University HSBC Business School
+
+**Natasha Watkins**<br>
+QuantEcon Early Career Researcher 
+
+**Jake Zhao**<br>
+Assistant Professor<br>
+Peking University HSBC Business School
+
+**Peifan WU**<br>
+Ph.D. Candidate<br>
+Stern School of Business<br>
+New York University
+
+**Wen HAI**<br>
+Professor<br>
+Vice Chairman of Peking University Council<br>
+Dean of HSBC Business School
+
+
+## 4. Winter Camp Program
 
 ### Week 1
 
 |     Day       | Time | Event     | Instructor      | Venue                                     |
 | --------------| ------------- | --------- | --------------- | ------------------------------------------ |
-| January 22    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
+| Jan 20        | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
 |               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
-| January 23    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
-|               |  10:00-12:00  |  Python basics: Introduction       | Natasha Watkins  |  PHBS RM513  |
-|               |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM513  |
-|  January 24   | 09:00-12:00  |  Python basics: Numpy and Matplotlib    | Xianfeng Li  |  PHBS RM513  |
-|  January 25   | 09:00-12:00  | Python basics: SymPy and SciPy        | Xianfeng Li   |  PHBS RM513  |
-|               |  14:00-15:30  | Guest lecture      | Jun Nie  |  PHBS RM513  |
-|  January 26   | 09:00-12:00  | Company Visit     |    | PingAn Technology  |    
-|               | 13:00 - 16:30  | Museum Tour      |  |  Shenzhen Museum |
-|  January 27   | 09:00-12:00  | Dynamic programming and OOP   | Jake Zhao  |  PHBS RM513  |
-|  January 28   | 09:00-12:00  | Pandas   | Natasha Watkins   |  PHBS RM513  |
+|               |  16:00-19:00  | PHBS Building Tour, <br>PKUSZ Campus Tour, Dinner |   | PHBS <br> PKU Cafeteria|
+|               |  19:00-20:30  | PHBS Introduction |  Wen HAI | PHBS RM333|
+| Jan 21        |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
+|               |  10:00-12:00  |  Introduction to Python       |Natasha WATKINS    |  PHBS RM513  |
+|               |  14:00-17:30  | Scientific Libraries      | Natasha WATKINS  |  PHBS RM513  |
+|               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
+| Jan 22    |  09:00-12:00  |   Advanced Python Programming | Natasha WATKINS | PHBS RM513         |
+|               |  14:00-17:30  | Samuelson multiplier and other examples | Natasha WATKINS  |  PHBS RM513  |
+|               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
+| Jan 23    |  09:00-12:00  |  Pandas | Quentin BATISTA  | PHBS RM513         |
+|               |  14:00-17:30  | Regression and Maximum likelihood  | Jiao SHI |  PHBS RM513  |
+|               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
+| Jan 24    |  09:00-12:00  |  Linear Algebra with Python| Xianhua PENG  | PHBS RM513         |
+|               |  14:00-17:30  |Linear Algebra with Python  | Xianhua PENG |  PHBS RM513  |
+|               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
+| Jan 25    |  09:00-12:00  |  LLN and CLT| Peifan WU  | PHBS RM513         |
+|               |  14:00-17:30  | LLN and CLT  | Peifan WU |  PHBS RM513  |
+|               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
+| Jan 26    |  09:00-12:00  |  Finite Markov Chains | Jiao SHI   | PHBS RM513         |
+|               |  14:00-17:30  | Finite Markov Chains  | Jake ZHAO |  PHBS RM513  |
+|               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
+| Jan 27    |  09:00-12:00  |  Convex Optimization | Xianhua PENG   | PHBS RM513         |
+|               |  14:00-17:30  |Bayesian Inference  | Brandon KAPLOWITZ |  PHBS RM513  |
+|               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
+| Jan 28    |  09:00-12:00  | ODE and integral equations in Python  | Brandon KAPLOWITZ   | PHBS RM513         |
+|               |  14:00-17:30  |Introduction to Machine Learning  | Quentin BATISTA|  PHBS RM513  |
+|               |  19:00-18:00  | Closing Ceremony      |  |  PHBS RM509  |
+| Jan 20   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
+
+## 5. Agenda for Opening Ceremony
+**Monday, January 21, 2019**
+
+**09:00-10:00 @PHBS 509**
+* Opening remarks by Dean Wen HAI
+*	Introduction of SIQEF by Professor Thomas SARGENT
+*	Introduction of 2019 Winter Camp of Quantitative Economics and Finance by Professor Jiao SHI
+*	Self-introductions by students
+*	Group photo session
+
+## 6. Agenda for Closing Ceremony
+**Sunday, January 28, 2019**
+
+**17:00-18:00 @PHBS RM509**
+*	Sharing session by student participants
+*	Closing remarks by Professor Jiao SHI
+*	“Best Study Honor” awarded by Professor Xianhua PENG<br>
+  “Certificate of Participation” awarded by Professor Jake ZHAO, Quentin BATISTA, Brandon KAPLOWITZ and Peifan WU
+*	Group photo session
+
+## 7. Student Contact List
+
+#### GROUP 1, TUTOR: Junjie ZHANG
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+| Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
+| Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|13026623732|xinruihuang@qq.com|
+|Jiawei WU |	University of International Business and Economics|	School of International Economics and Trade	|Economics (Honor)|	13952590829	|wujiawei.rabbit@163.com|
+|Yifan ZHONG|	Sichuan University|	Physics	|Physics|	13408031458	|jokiva@outlook.com|
+
+#### GROUP 2, TUTOR: Linsheng ZHUANG
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Junsong CHEN	|Peking University|	School of Life Science|	Bioscience|	18800192595|	1600012172@pku.edu.cn|
+|Yumin HU	|Peking University	|College of Environmental Science and Engineering	|Environmental Engineering|	13676047125|	hhhym110730@pku.edu.cn|
+|Xuelai LI	|Peking University	|Yuanpei College	|Finance|	18810883328	|lixuelai@pku.edu.cn|
+|Hao YANG	|Beihang University	|School of Humanities and Social Sciences|	Economics	|15652579355|	HaoYang@buaa.edu.cn|
+
+#### Group 3: Gan WU
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Liqi DONG	|University of International Business and Economics	|School of International Trade and Economics	|Finance|	15811235086	|dongliqi1280@163.com|
+|Luyao LIU	|Central University of Finance and Economics	|Management Science and Engineering|	Management Science	|15811322606	|liu.luyao@foxmail.com|
+|Yuran TU	|Nankai University|	Chemistry Department|	Applied Chemistry	|15222650518	|NKU_tyr@163.com|
+|Jiajia ZHENG	|Peking University |	School of Life Science	|Biology Science|	15801699036|	zhengjiajia@pku.edu.cn|
+
+#### Group 4: Zihao MAO
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Xiaolin WANG|	Renmin University of China|	School of Economics|	Economics|	18191131261	|x.wang@ruc.edu.cn|
+|Kaihong SONG|	Peking University	|School of Life Sciences|	Life Sciences	|18811317989|	704156579@qq.com|
+|Yajie ZHANG	|Shanghai University of Finance and Economics|	School of Statistics and Management	|Statistical Experiment|	15375498273	|15375498273@163.com|
+|Yi ZHANG	|Xiamen University|	School of Mathematical Sciences|	Statistics	|13906040026|	zy_eva_email@163.com|
+
+#### Group 5: Shiqi ZHANG
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Zilong BI|	Peking University|	School of Economics|	Resource and Environmental Economics|	15701576532|	bizilong@pku.edu.cn|
+|Yucheng JI|	Peking University|	School of Physics|	Physics|	18801386327|	1600011355@pku.edu.cn|
+|Yuxin CHEN|	Jilin University|	School of Economics|	Finance|	13645004337|	541539105@qq.com|
+|Linlin CUI|	Southwestern University of Finance and Economics|	Research Institute of Economics and Management|	Finance|	17780624881|Cuill97@163.com|
+
+#### Group 6: Ge SUN
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Zhuoyuan GAO|	Nankai University|	International Economics and Trade|	International Economics and Trade|	18636168780|	gandme118@163.com|
+|Zehao HUANG|	Central University of Finance and Economics|	School of Finance|	Finance|	15611877229|	h727920256@163.com|
+|Yue LIAO|	Central University of Finance and Economics|	China Economics and Management Academy(CEMA)|	Mathematical Economics and Mathematics|	13051996133|	ly_2756@163.com|
+|Bingzhao LI|	Shanghai University of Finance and Economics|	School of Economics|	Mathematical Economics|	18702132715	|bingzhao_li@163.com|
 
 
-### Week 2
+#### Group 7: Siyang LI
 
-|     Day       | Time | Event     | Instructor      | Venue                                     |
-| --------------| ------------- | --------- | --------------- | ------------------------------------------ |
-|  January 29   | 09:00-12:00  | Economics: Dynamic stochastic models  | John Stachurski  |  PHBS RM513  |
-|               |  14:00-15:30  | A dialogue with Thomas Sargent      | Thomas Sargent  |  PHBS RM509  |
-| January 30    |  09:00-12:00  |  Economics: Asset pricing  |  John Stachurski  | PHBS RM513         |
-|               |  14:00-15:30  |  Guest lecture   | Pengfei Wang  |  PHBS RM513  |
-| January 31    |  09:00-12:00  |  Economics: Asset pricing  |  John Stachurski  | PHBS RM513         |
-|  February 1   | 09:00-12:00  | Economics: Inequality        | Shenghao Zhu   |  PHBS RM513  |
-|  February 2    | 09:00-12:00  | Economics: Exchange rate forecast    |  Jiao Shi  | PHBS RM513  |    
-|               | 14:00-15:30  | Guest lecture      | Tao Zha |  PHBS RM513 |
-|               | 17:00-18:00  | Closing ceremony   |  |  PHBS RM509 |
-|  February 3   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+| Lintong SHI|	Peking University|	School of Economics|	Public Finance|	18801392867|	christineshi@pku.edu.cn|
+|Anying BAI|	Peking University|	Health and Science Center|	Preventive Medicine|	13332873952|	782488802@qq.com|
+|Heming XU|	Jilin University|	Business school|	Accounting|	17843126113|	xuhmleo@163.com|
+|Han YAN|	Sichuan University|	School of Mathematics|	Mathematics and Applied Mathematics|	13072852896|	1075894936@qq.com|
 
 
-## 3. Instructors and Speakers
-**Xianfeng Li**                                           
-Associate Professor                        
-Peking University School of Electronic and Computer Engineering 
+#### Group 8: Yeda DU & Lingdi XU
 
-**Jun Nie**                                                
-Senior Economist   
-Federal Reserve Bank of Kansas City
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Siyuan YANG|	Peking University|	School of Physics|	Physics|	18810773899|	1600011352@pku.edu.cn|
+|Junhe YI|	Peking University|	College of Engineering|	Material Science and Engineering|	13392624178|	yijh1998@pku.edu.cn|
+|Zixi ZHANG|	Shandong University|	Management|	Accounting|	15098727659|	910408123@qq.com|
+|Chunzi HUANG|	Peking University|	School of Economics|	Finance|	18211077566|	1500015457@pku.edu.cn|
 
-**Thomas Sargent**                              
-Professor at New York University                                        
-Director of Sargent Institute of Quantitative Economics and Finance 
-Peking University HSBC Business School
 
-**Jiao Shi**                                           
-Assistant Professor                          
-Peking University HSBC Business School
+## 8. Campus Map
+![alt text](https://github.com/SIQEF-PHBS/Winter-Camp-2019/blob/readme-edit/campus_map.png)
 
-**John Stachurski**                                 
-Professor at Research School of Economics         
-Australia National University
+## 9. PhD Program in Quantitative Economics 
 
-**Pengfei Wang**        
-Professor at Department of Economics                                                          
-The Hong Kong University of Science and Technology
+**Starting from Fall 2018, PHBS** establishes a state-of-the-art PhD program in quantitative economics focusing on foundations of economics and modern mathematical, statistical, and programming tools for putting those tools to work to analyze economic problems. The program is designed and organized by Professor Thomas Sargent.
 
-**Natasha Watkins**                               
-QuantEcon Early Career Researcher 
+**Audience:** As students, we seek either (a) highly motivated students having undergraduate degrees that provide them with a solid foundation in undergraduate mathematics, probability, and statistics; or (b) recent graduates of good MA programs in economics and finance; or (c) in exceptional cases, smart undergraduates with weaker backgrounds in mathematics and statistics who are willing to do extra remedial work before starting the main courses for the PhD program.
 
-**Tao Zha**                                              
-Research Executive Director  
-Federal Reserve Bank of Atlanta 
+**Philosophy:** We shall teach mathematical and conceptual foundations of modern economics theory as well as econometrics and statistics. Courses will begin by emphasizing tools because that is the most efficient way to create a powerful language for precisely formulating and criticizing economic ideas. After students acquire tools, important applications illustrating the power of economic theories and econometric methods will be presented. A typical first year PhD class will begin with virtually 100% tools, then over the course of the academic year gradually approach 50% tools and 50% applications.
 
-**Jake Zhao**                                            
-Assistant Professor                          
-Peking University HSBC Business School
-
-**Shenghao Zhu**                                   
-Associate Professor                          
-School of Economics and Management, Beihang University
-
-## 5. Ph.D. Program in Quantitative Economics
-
-Starting from Fall 2018, PHBS will establish a state-of-the-art PhD program in quantitative economics focusing on foundations of economics and modern mathematical, statistical, and computer tools for putting those tools to work to analyze economic problems. The program is designed and organized by Professor Thomas Sargent.
-
-Audience: As students, we seek either (a) highly motivated students having undergraduate degrees that provide them with a solid foundation in undergraduate mathematics, probability, and statistics; or (b) recent graduates of good MA programs in economics and finance; or (c) in exceptional cases, smart undergraduates with weaker backgrounds in mathematics and statistics who are willing to do extra remedial work before starting the main courses for the PhD program.
-
-Philosophy: We shall teach mathematical and conceptual foundations of modern economics theory as well econometrics and statistics. Courses will begin by emphasizing tools because that is the most efficient way to create a powerful language for precisely formulating and criticizing economic ideas. After students acquire tools, important applications illustrating the power of economic theories and econometric methods will be presented. A typical first year PhD class will begin with virtually 100% tools, then over the course of the academic year gradually approach 50% tools and 50% applications.
-For more information, please check out our [PhD admission information](http://www.phbs.pku.edu.cn/2017/postgraduate_0905/4445.html).
-
-## 4. Some useful references
-(Put the references from Tom's "battle plan". Other teachers will make change to it according to their own curriculum design.)
+For more information, please check out our PhD admission information at http://www.phbs.pku.edu.cn/2017/postgraduate_0905/4445.html.
 
