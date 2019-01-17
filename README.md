@@ -89,7 +89,7 @@ Dean of HSBC Business School
 
 |     Day       | Time | Event     | Instructor      | Venue                                     |
 | --------------| ------------- | --------- | --------------- | ------------------------------------------ |
-| Jan 20    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
+| Jan 20        | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
 |               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
 |               |  16:00-19:00  | PHBS Building Tour, <br>PKUSZ Campus Tour, Dinner |   | PHBS <br> PKU Cafeteria|
 |               |  19:00-20:30  | PHBS Introduction |  Wen HAI | PHBS RM333|
@@ -122,11 +122,22 @@ Dean of HSBC Business School
 
 ## 5. Agenda for Opening Ceremony
 Monday, January 21, 2019
+
 09:00-10:00 @PHBS 509
 * Opening remarks by Dean Wen HAI
 *	Introduction of SIQEF by Professor Thomas SARGENT
 *	Introduction of 2019 Winter Camp of Quantitative Economics and Finance by Professor Jiao SHI
 *	Self-introductions by students
+*	Group photo session
+
+## 6. Agenda for Closing Ceremony
+Sunday, January 28, 2019
+
+17:00-18:00 @PHBS RM509
+*	Sharing session by student participants
+*	Closing remarks by Professor Jiao SHI
+*	“Best Study Honor” awarded by Professor Xianhua PENG<br>
+  “Certificate of Participation” awarded by Professor Jake ZHAO, Quentin BATISTA, Brandon KAPLOWITZ and Peifan WU
 *	Group photo session
 
 
