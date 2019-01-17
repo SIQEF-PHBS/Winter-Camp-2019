@@ -139,81 +139,80 @@ Dean of HSBC Business School
   “Certificate of Participation” awarded by Professor Jake ZHAO, Quentin BATISTA, Brandon KAPLOWITZ and Peifan WU
 *	Group photo session
 
-## 7. Student Contact List
+## 7. Student List
 
 #### GROUP 1, TUTOR: Junjie ZHANG
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
-| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-| Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
-| Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|13026623732|xinruihuang@qq.com|
-|Jiawei WU |	University of International Business and Economics|	School of International Economics and Trade	|Economics (Honor)|	13952590829	|wujiawei.rabbit@163.com|
-|Yifan ZHONG|	Sichuan University|	Physics	|Physics|	13408031458	|jokiva@outlook.com|
+| ---------- | -------------- | -------------- | --------------- |
+| Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|
+| Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|
+|Jiawei WU |	University of International Business and Economics|	School of International Economics and Trade	|Economics (Honor)|	
+|Yifan ZHONG|	Sichuan University|	Physics	|Physics|
 
 #### GROUP 2, TUTOR: Linsheng ZHUANG
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
-| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-|Junsong CHEN	|Peking University|	School of Life Science|	Bioscience|	18800192595|	1600012172@pku.edu.cn|
-|Yumin HU	|Peking University	|College of Environmental Science and Engineering	|Environmental Engineering|	13676047125|	hhhym110730@pku.edu.cn|
-|Xuelai LI	|Peking University	|Yuanpei College	|Finance|	18810883328	|lixuelai@pku.edu.cn|
-|Hao YANG	|Beihang University	|School of Humanities and Social Sciences|	Economics	|15652579355|	HaoYang@buaa.edu.cn|
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
+| ---------- | -------------- | -------------- | --------------- |
+|Junsong CHEN	|Peking University|	School of Life Science|	Bioscience|	
+|Yumin HU	|Peking University	|College of Environmental Science and Engineering	|Environmental Engineering|	
+|Xuelai LI	|Peking University	|Yuanpei College	|Finance|	
+|Hao YANG	|Beihang University	|School of Humanities and Social Sciences|	Economics	|
 
 #### GROUP 3: Gan WU
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
-| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-|Liqi DONG	|University of International Business and Economics	|School of International Trade and Economics	|Finance|	15811235086	|dongliqi1280@163.com|
-|Luyao LIU	|Central University of Finance and Economics	|Management Science and Engineering|	Management Science	|15811322606	|liu.luyao@foxmail.com|
-|Yuran TU	|Nankai University|	Chemistry Department|	Applied Chemistry	|15222650518	|NKU_tyr@163.com|
-|Jiajia ZHENG	|Peking University |	School of Life Science	|Biology Science|	15801699036|	zhengjiajia@pku.edu.cn|
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
+| ---------- | -------------- | -------------- | --------------- |
+|Liqi DONG	|University of International Business and Economics	|School of International Trade and Economics	|Finance|
+|Luyao LIU	|Central University of Finance and Economics	|Management Science and Engineering|	Management Science	|
+|Yuran TU	|Nankai University|	Chemistry Department|	Applied Chemistry	|
+|Jiajia ZHENG	|Peking University |	School of Life Science	|Biology Science|	
 
 #### GROUP 4: Zihao MAO
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-|Xiaolin WANG|	Renmin University of China|	School of Economics|	Economics|	18191131261	|x.wang@ruc.edu.cn|
-|Kaihong SONG|	Peking University	|School of Life Sciences|	Life Sciences	|18811317989|	704156579@qq.com|
-|Yajie ZHANG	|Shanghai University of Finance and Economics|	School of Statistics and Management	|Statistical Experiment|	15375498273	|15375498273@163.com|
-|Yi ZHANG	|Xiamen University|	School of Mathematical Sciences|	Statistics	|13906040026|	zy_eva_email@163.com|
+|Xiaolin WANG|	Renmin University of China|	School of Economics|	Economics|	
+|Kaihong SONG|	Peking University	|School of Life Sciences|	Life Sciences	|
+|Yajie ZHANG	|Shanghai University of Finance and Economics|	School of Statistics and Management	|Statistical Experiment|	
+|Yi ZHANG	|Xiamen University|	School of Mathematical Sciences|	Statistics	|
 
 #### GROUP 5: Shiqi ZHANG
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
-| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-|Zilong BI|	Peking University|	School of Economics|	Resource and Environmental Economics|	15701576532|	bizilong@pku.edu.cn|
-|Yucheng JI|	Peking University|	School of Physics|	Physics|	18801386327|	1600011355@pku.edu.cn|
-|Yuxin CHEN|	Jilin University|	School of Economics|	Finance|	13645004337|	541539105@qq.com|
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR |
+| ---------- | -------------- | -------------- | --------------- |
+|Zilong BI|	Peking University|	School of Economics|	Resource and Environmental Economics|
+|Yucheng JI|	Peking University|	School of Physics|	Physics|	
+|Yuxin CHEN|	Jilin University|	School of Economics|	Finance|	
 |Linlin CUI|	Southwestern University of Finance and Economics|	Research Institute of Economics and Management|	Finance|	17780624881|Cuill97@163.com|
 
 #### GROUP 6: Ge SUN
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
-| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-|Zhuoyuan GAO|	Nankai University|	International Economics and Trade|	International Economics and Trade|	18636168780|	gandme118@163.com|
-|Zehao HUANG|	Central University of Finance and Economics|	School of Finance|	Finance|	15611877229|	h727920256@163.com|
-|Yue LIAO|	Central University of Finance and Economics|	China Economics and Management Academy(CEMA)|	Mathematical Economics and Mathematics|	13051996133|	ly_2756@163.com|
-|Bingzhao LI|	Shanghai University of Finance and Economics|	School of Economics|	Mathematical Economics|	18702132715	|bingzhao_li@163.com|
-
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR |
+| ---------- | -------------- | -------------- | --------------- |
+|Zhuoyuan GAO|	Nankai University|	International Economics and Trade|	International Economics and Trade|	
+|Zehao HUANG|	Central University of Finance and Economics|	School of Finance|	Finance|	
+|Yue LIAO|	Central University of Finance and Economics|	China Economics and Management Academy(CEMA)|	Mathematical Economics and Mathematics|	
+|Bingzhao LI|	Shanghai University of Finance and Economics|	School of Economics|	Mathematical Economics|	
 
 #### GROUP 7: Siyang LI
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
-| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-| Lintong SHI|	Peking University|	School of Economics|	Public Finance|	18801392867|	christineshi@pku.edu.cn|
-|Anying BAI|	Peking University|	Health and Science Center|	Preventive Medicine|	13332873952|	782488802@qq.com|
-|Heming XU|	Jilin University|	Business school|	Accounting|	17843126113|	xuhmleo@163.com|
-|Han YAN|	Sichuan University|	School of Mathematics|	Mathematics and Applied Mathematics|	13072852896|	1075894936@qq.com|
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR |
+| ---------- | -------------- | -------------- | --------------- |
+| Lintong SHI|	Peking University|	School of Economics|	Public Finance|	
+|Anying BAI|	Peking University|	Health and Science Center|	Preventive Medicine|
+|Heming XU|	Jilin University|	Business school|	Accounting|
+|Han YAN|	Sichuan University|	School of Mathematics|	Mathematics and Applied Mathematics|	
 
 
 #### GROUP 8: Yeda DU & Lingdi XU
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE| EMAIL | 
-| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-|Siyuan YANG|	Peking University|	School of Physics|	Physics|	18810773899|	1600011352@pku.edu.cn|
-|Junhe YI|	Peking University|	College of Engineering|	Material Science and Engineering|	13392624178|	yijh1998@pku.edu.cn|
-|Zixi ZHANG|	Shandong University|	Management|	Accounting|	15098727659|	910408123@qq.com|
-|Chunzi HUANG|	Peking University|	School of Economics|	Finance|	18211077566|	1500015457@pku.edu.cn|
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
+| ---------- | -------------- | -------------- | --------------- |
+|Siyuan YANG|	Peking University|	School of Physics|	Physics|	
+|Junhe YI|	Peking University|	College of Engineering|	Material Science and Engineering|	
+|Zixi ZHANG|	Shandong University|	Management|	Accounting|	
+|Chunzi HUANG|	Peking University|	School of Economics|	Finance|	
 
 
 ## 8. Campus Map
