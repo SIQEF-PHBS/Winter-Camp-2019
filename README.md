@@ -61,15 +61,14 @@ Associate Professor<br>
 Peking University HSBC Business School
 
 **Jiao Shi**<br>                                           
-Assistant Professor<br>                          
+Assistant Professor<br>
 Peking University HSBC Business School
 
-**Natasha Watkins**<br>                               
+**Natasha Watkins**<br>
 QuantEcon Early Career Researcher 
 
-
-**Jake Zhao**<br>                                            
-Assistant Professor<br>                          
+**Jake Zhao**<br>
+Assistant Professor<br>
 Peking University HSBC Business School
 
 **Peifan WU**<br>
