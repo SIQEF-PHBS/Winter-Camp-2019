@@ -140,75 +140,44 @@ Dean of HSBC Business School
 *	Group photo session
 
 ## 7. Student List
-
-#### GROUP 1, TUTOR: Junjie ZHANG
-
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
-| ---------- | -------------- | -------------- | --------------- |
+|--|--|--|--|
+| **GROUP 1**| **TUTOR: Junjie ZHANG**| | |
 | Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|
 | Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|
 |Jiawei WU |	University of International Business and Economics|	School of International Economics and Trade	|Economics (Honor)|	
 |Yifan ZHONG|	Sichuan University|	Physics	|Physics|
-
-#### GROUP 2, TUTOR: Linsheng ZHUANG
-
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
-| ---------- | -------------- | -------------- | --------------- |
+| **GROUP 2**| **TUTOR: Linsheng ZHUANG**| | |
 |Junsong CHEN	|Peking University|	School of Life Science|	Bioscience|	
 |Yumin HU	|Peking University	|College of Environmental Science and Engineering	|Environmental Engineering|	
 |Xuelai LI	|Peking University	|Yuanpei College	|Finance|	
 |Hao YANG	|Beihang University	|School of Humanities and Social Sciences|	Economics	|
-
-#### GROUP 3: Gan WU
-
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
-| ---------- | -------------- | -------------- | --------------- |
+|**GROUP 3**| **TUTOR: Gan WU**| | |
 |Liqi DONG	|University of International Business and Economics	|School of International Trade and Economics	|Finance|
 |Luyao LIU	|Central University of Finance and Economics	|Management Science and Engineering|	Management Science	|
 |Yuran TU	|Nankai University|	Chemistry Department|	Applied Chemistry	|
 |Jiajia ZHENG	|Peking University |	School of Life Science	|Biology Science|	
-
-#### GROUP 4: Zihao MAO
-
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
-| ---------- | -------------- | -------------- | --------------- |
+|**GROUP 4**|**TUTOR: Zihao MAO**| | |
 |Xiaolin WANG|	Renmin University of China|	School of Economics|	Economics|	
 |Kaihong SONG|	Peking University	|School of Life Sciences|	Life Sciences	|
 |Yajie ZHANG	|Shanghai University of Finance and Economics|	School of Statistics and Management	|Statistical Experiment|	
 |Yi ZHANG	|Xiamen University|	School of Mathematical Sciences|	Statistics	|
-
-#### GROUP 5: Shiqi ZHANG
-
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR |
-| ---------- | -------------- | -------------- | --------------- |
+|**GROUP 5**| **TUTOR: Shiqi ZHANG**| | |
 |Zilong BI|	Peking University|	School of Economics|	Resource and Environmental Economics|
 |Yucheng JI|	Peking University|	School of Physics|	Physics|	
 |Yuxin CHEN|	Jilin University|	School of Economics|	Finance|	
 |Linlin CUI|	Southwestern University of Finance and Economics|	Research Institute of Economics and Management|	Finance|	17780624881|Cuill97@163.com|
-
-#### GROUP 6: Ge SUN
-
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR |
-| ---------- | -------------- | -------------- | --------------- |
+|**GROUP 6**|**TUTOR: Ge SUN**| | |
 |Zhuoyuan GAO|	Nankai University|	International Economics and Trade|	International Economics and Trade|	
 |Zehao HUANG|	Central University of Finance and Economics|	School of Finance|	Finance|	
 |Yue LIAO|	Central University of Finance and Economics|	China Economics and Management Academy(CEMA)|	Mathematical Economics and Mathematics|	
 |Bingzhao LI|	Shanghai University of Finance and Economics|	School of Economics|	Mathematical Economics|	
-
-#### GROUP 7: Siyang LI
-
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR |
-| ---------- | -------------- | -------------- | --------------- |
+|**GROUP 7**|**TUTOR: Siyang LI**| | |
 | Lintong SHI|	Peking University|	School of Economics|	Public Finance|	
 |Anying BAI|	Peking University|	Health and Science Center|	Preventive Medicine|
 |Heming XU|	Jilin University|	Business school|	Accounting|
 |Han YAN|	Sichuan University|	School of Mathematics|	Mathematics and Applied Mathematics|	
-
-
-#### GROUP 8: Yeda DU & Lingdi XU
-
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
-| ---------- | -------------- | -------------- | --------------- |
+|**GROUP 8**|**TUTOR: Yeda DU & Lingdi XU**| | |
 |Siyuan YANG|	Peking University|	School of Physics|	Physics|	
 |Junhe YI|	Peking University|	College of Engineering|	Material Science and Engineering|	
 |Zixi ZHANG|	Shandong University|	Management|	Accounting|	
