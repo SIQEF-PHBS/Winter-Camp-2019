@@ -91,7 +91,7 @@ Dean of HSBC Business School
 | --------------| ------------- | --------- | --------------- | ------------------------------------------ |
 | Jan 20    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
 |               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
-|               |  16:00-19:00  | PHBS Building Tour, PKUSZ Campus Tour, Dinner |   | PHBS & PKU Cafeteria|
+|               |  16:00-19:00  | PHBS Building Tour, <br>PKUSZ Campus Tour, Dinner |   | PHBS & PKU Cafeteria|
 |               |  19:00-20:30  | PHBS Introduction |  Wen HAI | PHBS RM333|
 | Jan 21    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
 |               |  10:00-12:00  |  Introduction to Python       |Natasha WATKINS    |  PHBS RM513  |
