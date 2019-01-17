@@ -148,3 +148,5 @@ Dean of HSBC Business School
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 | Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
 | Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|13026623732|xinruihuang@qq.com|
+|Jiawei WU |	University of International Business and Economics|	School of International Economics and Trade	|Economics (Honor)|	13952590829	|wujiawei.rabbit@163.com|
+|Yifan ZHONG|	Sichuan University|	Physics	|Physics|	13408031458	|jokiva@outlook.com|
