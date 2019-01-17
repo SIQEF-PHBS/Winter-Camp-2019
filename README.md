@@ -144,7 +144,7 @@ Dean of HSBC Business School
 
 **GROUP 1, TUTOR: Junjie ZHANG**
 
-| NAME| UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
-| --------------| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 | Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
 | Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|13026623732|xinruihuang@qq.com|
