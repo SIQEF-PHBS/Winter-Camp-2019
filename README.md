@@ -216,3 +216,6 @@ Dean of HSBC Business School
 |Zixi ZHANG|	Shandong University|	Management|	Accounting|	15098727659|	910408123@qq.com|
 |Chunzi HUANG|	Peking University|	School of Economics|	Finance|	18211077566|	1500015457@pku.edu.cn|
 
+
+
+![alt text](https://github.com/SIQEF-PHBS/Winter-Camp-2019/blob/readme-edit/campus_map.png)
