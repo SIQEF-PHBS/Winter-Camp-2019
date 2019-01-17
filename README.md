@@ -142,9 +142,7 @@ Sunday, January 28, 2019
 
 ## 7. Student Contact List
 
-|GROUP NO | TUTOR |
-|-------| ---------|
-|Group 1 | Junjie ZHANG|
+GROUP 1, TUTOR: Junjie ZHANG
 | NAME| UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
 | --------------| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 | Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
