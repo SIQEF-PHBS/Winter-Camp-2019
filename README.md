@@ -121,9 +121,9 @@ Dean of HSBC Business School
 | Jan 20   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
 
 ## 5. Agenda for Opening Ceremony
-Monday, January 21, 2019
+**Monday, January 21, 2019**
 
-09:00-10:00 @PHBS 509
+**09:00-10:00 @PHBS 509**
 * Opening remarks by Dean Wen HAI
 *	Introduction of SIQEF by Professor Thomas SARGENT
 *	Introduction of 2019 Winter Camp of Quantitative Economics and Finance by Professor Jiao SHI
@@ -131,9 +131,9 @@ Monday, January 21, 2019
 *	Group photo session
 
 ## 6. Agenda for Closing Ceremony
-Sunday, January 28, 2019
+**Sunday, January 28, 2019**
 
-17:00-18:00 @PHBS RM509
+**17:00-18:00 @PHBS RM509**
 *	Sharing session by student participants
 *	Closing remarks by Professor Jiao SHI
 *	“Best Study Honor” awarded by Professor Xianhua PENG<br>
@@ -142,7 +142,8 @@ Sunday, January 28, 2019
 
 ## 7. Student Contact List
 
-GROUP 1, TUTOR: Junjie ZHANG
+**GROUP 1, TUTOR: Junjie ZHANG**
+
 | NAME| UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
 | --------------| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 | Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
