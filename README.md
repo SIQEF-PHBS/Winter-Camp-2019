@@ -51,35 +51,35 @@ Sargent Institute of Quantitative Economics and Finance
 **Brandon KAPLOWITZ**<br>
 Predoctoral fellow for Thomas Sargent at New York University
 
-**Thomas Sargent** <br>                             
-Professor at New York University   <br>                                     
-Director of Sargent Institute of Quantitative Economics and Finance <br>
+**Thomas Sargent**<br>                             
+Professor at New York University<br>                                     
+Director of Sargent Institute of Quantitative Economics and Finance<br>
 Peking University HSBC Business School
 
-**Xianhua PENG**
-Associate Professor
+**Xianhua PENG**<br>
+Associate Professor<br>
 Peking University HSBC Business School
 
-**Jiao Shi**                                           
-Assistant Professor                          
+**Jiao Shi**<br>                                           
+Assistant Professor<br>                          
 Peking University HSBC Business School
 
-**Natasha Watkins**                               
+**Natasha Watkins**<br>                               
 QuantEcon Early Career Researcher 
 
 
-**Jake Zhao**                                            
-Assistant Professor                          
+**Jake Zhao**<br>                                            
+Assistant Professor<br>                          
 Peking University HSBC Business School
 
-**Peifan WU**
-Ph.D. Candidate
-Stern School of Business
+**Peifan WU**<br>
+Ph.D. Candidate<br>
+Stern School of Business<br>
 New York University
 
-**Wen HAI**
-Professor
-Vice Chairman of Peking University Council
+**Wen HAI**<br>
+Professor<br>
+Vice Chairman of Peking University Council<br>
 Dean of HSBC Business School
 
 
