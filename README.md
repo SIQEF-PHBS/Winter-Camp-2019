@@ -97,7 +97,8 @@ Dean of HSBC Business School
 |               |  14:00-17:30  | Scientific Libraries      | Natasha WATKINS  |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
 | Jan 22    |  09:00-12:00  |   Advanced Python Programming | Natasha WATKINS | PHBS RM513         |
-|               |  14:00-17:30  | Samuelson multiplier and other examples | Natasha WATKINS  |  PHBS RM513  |
+|               |  14:00-15:00  | Lecture on Quantitative Economics | Thomas Sargent  |  PHBS RM513  |
+|               |  15:00-17:30  | Samuelson multiplier and other examples | Natasha WATKINS  |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
 | Jan 23    |  09:00-12:00  |  Pandas | Quentin BATISTA  | PHBS RM513         |
 |               |  14:00-17:30  | Regression and Maximum likelihood  | Jiao SHI |  PHBS RM513  |
