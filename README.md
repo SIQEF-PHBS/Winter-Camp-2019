@@ -51,8 +51,8 @@ Sargent Institute of Quantitative Economics and Finance
 **Brandon KAPLOWITZ**<br>
 Predoctoral fellow for Thomas Sargent at New York University
 
-**Thomas Sargent**<br>                             
-Professor at New York University<br>                                     
+**Thomas Sargent**<br>
+Professor at New York University<br>
 Director of Sargent Institute of Quantitative Economics and Finance<br>
 Peking University HSBC Business School
 
@@ -60,7 +60,7 @@ Peking University HSBC Business School
 Associate Professor<br>
 Peking University HSBC Business School
 
-**Jiao Shi**<br>                                           
+**Jiao Shi**<br>
 Assistant Professor<br>
 Peking University HSBC Business School
 
