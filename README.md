@@ -117,7 +117,7 @@ Dean of HSBC Business School
 | Jan 28    |  09:00-12:00  | ODE and integral equations in Python  | Brandon KAPLOWITZ   | PHBS RM513         |
 |               |  14:00-17:30  |Introduction to Machine Learning  | Quentin BATISTA|  PHBS RM513  |
 |               |  19:00-18:00  | Closing Ceremony      |  |  PHBS RM509  |
-| Jan 20   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
+| Jan 29   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
 
 ## 5. Agenda for Opening Ceremony
 **Monday, January 21, 2019**
