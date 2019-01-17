@@ -159,7 +159,7 @@ Dean of HSBC Business School
 |Xuelai LI	|Peking University	|Yuanpei College	|Finance|	18810883328	|lixuelai@pku.edu.cn|
 |Hao YANG	|Beihang University	|School of Humanities and Social Sciences|	Economics	|15652579355|	HaoYang@buaa.edu.cn|
 
-#### Group 3: Gan WU
+#### GROUP 3: Gan WU
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
@@ -168,7 +168,7 @@ Dean of HSBC Business School
 |Yuran TU	|Nankai University|	Chemistry Department|	Applied Chemistry	|15222650518	|NKU_tyr@163.com|
 |Jiajia ZHENG	|Peking University |	School of Life Science	|Biology Science|	15801699036|	zhengjiajia@pku.edu.cn|
 
-#### Group 4: Zihao MAO
+#### GROUP 4: Zihao MAO
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
@@ -177,7 +177,7 @@ Dean of HSBC Business School
 |Yajie ZHANG	|Shanghai University of Finance and Economics|	School of Statistics and Management	|Statistical Experiment|	15375498273	|15375498273@163.com|
 |Yi ZHANG	|Xiamen University|	School of Mathematical Sciences|	Statistics	|13906040026|	zy_eva_email@163.com|
 
-#### Group 5: Shiqi ZHANG
+#### GROUP 5: Shiqi ZHANG
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
@@ -186,7 +186,7 @@ Dean of HSBC Business School
 |Yuxin CHEN|	Jilin University|	School of Economics|	Finance|	13645004337|	541539105@qq.com|
 |Linlin CUI|	Southwestern University of Finance and Economics|	Research Institute of Economics and Management|	Finance|	17780624881|Cuill97@163.com|
 
-#### Group 6: Ge SUN
+#### GROUP 6: Ge SUN
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
@@ -196,7 +196,7 @@ Dean of HSBC Business School
 |Bingzhao LI|	Shanghai University of Finance and Economics|	School of Economics|	Mathematical Economics|	18702132715	|bingzhao_li@163.com|
 
 
-#### Group 7: Siyang LI
+#### GROUP 7: Siyang LI
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
@@ -206,7 +206,7 @@ Dean of HSBC Business School
 |Han YAN|	Sichuan University|	School of Mathematics|	Mathematics and Applied Mathematics|	13072852896|	1075894936@qq.com|
 
 
-#### Group 8: Yeda DU & Lingdi XU
+#### GROUP 8: Yeda DU & Lingdi XU
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE| EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
@@ -217,6 +217,7 @@ Dean of HSBC Business School
 
 
 ## 8. Campus Map
+
 ![alt text](https://github.com/SIQEF-PHBS/Winter-Camp-2019/blob/master/campus_map.png)
 
 ## 9. PhD Program in Quantitative Economics 
