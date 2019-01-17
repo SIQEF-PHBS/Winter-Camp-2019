@@ -141,7 +141,11 @@ Sunday, January 28, 2019
 *	Group photo session
 
 ## 7. Student Contact List
-| GROUP NO: TUTOR | NAME| UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+
+|GROUP NO | TUTOR |
+|-------| ---------|
+|Group 1 | Junjie ZHANG|
+| NAME| UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
 | --------------| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
-| Group 1: | Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
-|Junjie ZHANG| Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|13026623732|xinruihuang@qq.com|
+| Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
+| Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|13026623732|xinruihuang@qq.com|
