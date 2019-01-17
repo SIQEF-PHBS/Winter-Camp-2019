@@ -91,7 +91,7 @@ Dean of HSBC Business School
 | --------------| ------------- | --------- | --------------- | ------------------------------------------ |
 | Jan 20    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
 |               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
-|               |  16:00-19:00  | PHBS Building Tour, <br>PKUSZ Campus Tour, Dinner |   | PHBS & PKU Cafeteria|
+|               |  16:00-19:00  | PHBS Building Tour, <br>PKUSZ Campus Tour, Dinner |   | PHBS <br> PKU Cafeteria|
 |               |  19:00-20:30  | PHBS Introduction |  Wen HAI | PHBS RM333|
 | Jan 21    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
 |               |  10:00-12:00  |  Introduction to Python       |Natasha WATKINS    |  PHBS RM513  |
@@ -119,5 +119,14 @@ Dean of HSBC Business School
 |               |  14:00-17:30  |Introduction to Machine Learning  | Quentin BATISTA|  PHBS RM513  |
 |               |  19:00-18:00  | Closing Ceremony      |  |  PHBS RM509  |
 | Jan 20   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
+
+## 5. Agenda for Opening Ceremony
+Monday, January 21, 2019
+09:00-10:00 @PHBS 509
+* Opening remarks by Dean Wen HAI
+*	Introduction of SIQEF by Professor Thomas SARGENT
+*	Introduction of 2019 Winter Camp of Quantitative Economics and Finance by Professor Jiao SHI
+*	Self-introductions by students
+*	Group photo session
 
 
