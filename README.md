@@ -130,21 +130,5 @@ Philosophy: We shall teach mathematical and conceptual foundations of modern eco
 For more information, please check out our [PhD admission information](http://www.phbs.pku.edu.cn/2017/postgraduate_0905/4445.html).
 
 ## 4. Some useful references
-For programming and economics theory, the suggested reference which will be used in accordance to the winter camp is the Python section of Quantecon.org
-
-Books of programming recommended
-* Allen B. Downey, *Think Python*, O'Reilly Media, Inc.(2012)
-* Lutz, Mark, *Learning Python*, 5th edition, O'Reilly Media, Inc. (2013)
-* McKinney, Wes, *Python for Data Analysis*, O'Reilly Media, Inc. (2013)
-
-Books recommended for Economics
-* Lars Ljungqvist, Thomas J. Sargent, *Recursive Macroeconomic Theory*, Third edition, MIT Press(2012)
-* David M. Kreps, *Microeconomic Foundations I Choice and Competitive Markets*, PRINCETON UNIVERSITY PRESS(2013) 
-* Andreu Mas-Colell, Michael D. Whinston, and Jerry R. Green, *Microeconomic Theory*, Oxford University Press(1995)
-
-Books for Mathematics and Statistics
-* Carl P Simon, Lawrence Blume, *MATHEMATICS FOR ECONOMISTS*, W. W. Norton & Company, Inc.(1994)
-* Larry Wasserman, *All of Statistics A Concise Course in Statistical Inference*, Springer(2010)
-* George Casella, Roger L. Berger, *Statistical Inference*, Second edition, Duxbury(2002)
-
+(Put the references from Tom's "battle plan". Other teachers will make change to it according to their own curriculum design.)
 
