@@ -148,11 +148,8 @@ Dean of HSBC Business School
 | Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|
 |Jiawei WU |	University of International Business and Economics|	School of International Economics and Trade	|Economics (Honor)|	
 |Yifan ZHONG|	Sichuan University|	Physics	|Physics|
-
-#### GROUP 2, TUTOR: Linsheng ZHUANG
-
+| GROUP | TUTOR: Linsheng ZHUANG| | |
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | 
-| ---------- | -------------- | -------------- | --------------- |
 |Junsong CHEN	|Peking University|	School of Life Science|	Bioscience|	
 |Yumin HU	|Peking University	|College of Environmental Science and Engineering	|Environmental Engineering|	
 |Xuelai LI	|Peking University	|Yuanpei College	|Finance|	
