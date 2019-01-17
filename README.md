@@ -143,7 +143,7 @@ Dean of HSBC Business School
 
 #### GROUP 1, TUTOR: Junjie ZHANG
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 | Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
 | Xinrui HUANG	|Sun Yat-sen University|	School of Mathematics(Zhuhai)	|Mathematics and Applied Mathem	|13026623732|xinruihuang@qq.com|
@@ -152,7 +152,7 @@ Dean of HSBC Business School
 
 #### GROUP 2, TUTOR: Linsheng ZHUANG
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 |Junsong CHEN	|Peking University|	School of Life Science|	Bioscience|	18800192595|	1600012172@pku.edu.cn|
 |Yumin HU	|Peking University	|College of Environmental Science and Engineering	|Environmental Engineering|	13676047125|	hhhym110730@pku.edu.cn|
@@ -161,7 +161,7 @@ Dean of HSBC Business School
 
 #### Group 3: Gan WU
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 |Liqi DONG	|University of International Business and Economics	|School of International Trade and Economics	|Finance|	15811235086	|dongliqi1280@163.com|
 |Luyao LIU	|Central University of Finance and Economics	|Management Science and Engineering|	Management Science	|15811322606	|liu.luyao@foxmail.com|
@@ -170,7 +170,7 @@ Dean of HSBC Business School
 
 #### Group 4: Zihao MAO
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 |Xiaolin WANG|	Renmin University of China|	School of Economics|	Economics|	18191131261	|x.wang@ruc.edu.cn|
 |Kaihong SONG|	Peking University	|School of Life Sciences|	Life Sciences	|18811317989|	704156579@qq.com|
@@ -179,7 +179,7 @@ Dean of HSBC Business School
 
 #### Group 5: Shiqi ZHANG
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 |Zilong BI|	Peking University|	School of Economics|	Resource and Environmental Economics|	15701576532|	bizilong@pku.edu.cn|
 |Yucheng JI|	Peking University|	School of Physics|	Physics|	18801386327|	1600011355@pku.edu.cn|
@@ -188,7 +188,7 @@ Dean of HSBC Business School
 
 #### Group 6: Ge SUN
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 |Zhuoyuan GAO|	Nankai University|	International Economics and Trade|	International Economics and Trade|	18636168780|	gandme118@163.com|
 |Zehao HUANG|	Central University of Finance and Economics|	School of Finance|	Finance|	15611877229|	h727920256@163.com|
@@ -198,7 +198,7 @@ Dean of HSBC Business School
 
 #### Group 7: Siyang LI
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 | Lintong SHI|	Peking University|	School of Economics|	Public Finance|	18801392867|	christineshi@pku.edu.cn|
 |Anying BAI|	Peking University|	Health and Science Center|	Preventive Medicine|	13332873952|	782488802@qq.com|
@@ -208,7 +208,7 @@ Dean of HSBC Business School
 
 #### Group 8: Yeda DU & Lingdi XU
 
-| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | MOBILE| EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
 |Siyuan YANG|	Peking University|	School of Physics|	Physics|	18810773899|	1600011352@pku.edu.cn|
 |Junhe YI|	Peking University|	College of Engineering|	Material Science and Engineering|	13392624178|	yijh1998@pku.edu.cn|
