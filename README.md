@@ -160,4 +160,12 @@ Dean of HSBC Business School
 |Xuelai LI	|Peking University	|Yuanpei College	|Finance|	18810883328	|lixuelai@pku.edu.cn|
 |Hao YANG	|Beihang University	|School of Humanities and Social Sciences|	Economics	|15652579355|	HaoYang@buaa.edu.cn|
 
+**Group 3: Gan WU **
+
+| NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+|Liqi DONG	|University of International Business and Economics	|School of International Trade and Economics	|Finance|	15811235086	|dongliqi1280@163.com|
+|Luyao LIU	|Central University of Finance and Economics	|Management Science and Engineering|	Management Science	|15811322606	|liu.luyao@foxmail.com|
+|Yuran TU	|Nankai University|	Chemistry Department|	Applied Chemistry	|15222650518	|NKU_tyr@163.com|
+|Jiajia ZHENG	|Peking University |	School of Life Science	|Biology Science|	15801699036|	zhengjiajia@pku.edu.cn|
 
