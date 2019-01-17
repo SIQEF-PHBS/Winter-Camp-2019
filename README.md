@@ -141,7 +141,7 @@ Dean of HSBC Business School
 
 ## 7. Student Contact List
 
-**GROUP 1, TUTOR: Junjie ZHANG**
+#### GROUP 1, TUTOR: Junjie ZHANG
 
 | NAME | UNIVERSITY   | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
 | ---------- | -------------- | -------------- | --------------- |-----------|-------------|
