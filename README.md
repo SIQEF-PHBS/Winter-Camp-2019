@@ -93,7 +93,7 @@ Dean of HSBC Business School
 |               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
 |               |  16:00-19:00  | PHBS Building Tour, <br>PKUSZ Campus Tour, Dinner |   | PHBS <br> PKU Cafeteria|
 |               |  19:00-20:30  | PHBS Introduction |  Wen HAI | PHBS RM333|
-| Jan 21    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
+| Jan 21        |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
 |               |  10:00-12:00  |  Introduction to Python       |Natasha WATKINS    |  PHBS RM513  |
 |               |  14:00-17:30  | Scientific Libraries      | Natasha WATKINS  |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
@@ -140,4 +140,7 @@ Sunday, January 28, 2019
   “Certificate of Participation” awarded by Professor Jake ZHAO, Quentin BATISTA, Brandon KAPLOWITZ and Peifan WU
 *	Group photo session
 
-
+## 7. Student Contact List
+|   GROUP NO: TUTOR | NAME| UNIVERSITY     | SCHOOL     | MAJOR | CONTACT NO. | EMAIL | 
+| --------------| ---------- | -------------- | -------------- | --------------- |-----------|-------------|
+| Group 1: | Yangqing YE |Tsinghua University	|Industrial Engineering	|Industrial Engineering	|13263333688|	1007393961@qq.com|
