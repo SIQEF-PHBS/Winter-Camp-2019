@@ -97,7 +97,7 @@ New York University
 |               |  10:00-12:00  |  Introduction to Python       |Natasha WATKINS    |  PHBS RM513  |
 |               |  14:00-17:30  | Scientific Libraries      | Natasha WATKINS  |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
-| Jan 22    |  09:00-12:00  |   Advanced Python Programming | Natasha WATKINS | PHBS RM513         |
+| Jan 22    |  09:00-12:00  |   Advanced Python Programming | Jake ZHAO | PHBS RM513         |
 |               |  14:00-15:00  | Lecture on Quantitative Economics | Thomas SARGENT  |  PHBS RM513  |
 |               |  15:00-17:30  | Samuelson multiplier and other examples | Natasha WATKINS  |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
