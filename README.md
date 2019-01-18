@@ -117,8 +117,8 @@ New York University
 |               |  14:00-17:30  |Bayesian Inference  | Brandon KAPLOWITZ |  PHBS RM513  |
 |               |  19:00-22:00  | Homework & Preview      |  |  PHBS RM513  |
 | Jan 28    |  09:00-12:00  | ODE and integral equations in Python  | Brandon KAPLOWITZ   | PHBS RM513         |
-|               |  14:00-17:30  |Introduction to Machine Learning  | Quentin BATISTA|  PHBS RM513  |
-|               |  19:00-18:00  | Closing Ceremony      |  |  PHBS RM509  |
+|               |  14:00-15:00  |Introduction to Machine Learning  | Quentin BATISTA|  PHBS RM513  |
+|               |  17:00-18:00  | Closing Ceremony      |  |  PHBS RM509  |
 | Jan 29   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
 
 ## 5. Agenda for Opening Ceremony
