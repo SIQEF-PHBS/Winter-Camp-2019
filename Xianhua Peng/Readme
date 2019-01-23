@@ -3,3 +3,4 @@ The folder contains the following materials:
 (1) linear_algebra.ipynb: the Jupyter notebook on linear algebra (Day 4)
 (2) Principal_Component_Analysis.pdf: application of linear algebra in principal component analysis (Day 4)
 (3) pca_zero_curve.ipynb: the Jupyter notebook on the application of principal component analysis for interest rates (Day 4)
+(4) ODE_example.ipynb: an example on solving ODE by matrix exponential (Day 4)
