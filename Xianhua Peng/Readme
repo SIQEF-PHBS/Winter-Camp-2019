@@ -4,3 +4,6 @@ The folder contains the following materials:
 (2) Principal_Component_Analysis.pdf: application of linear algebra in principal component analysis (Day 4)
 (3) pca_zero_curve.ipynb: the Jupyter notebook on the application of principal component analysis for interest rates (Day 4)
 (4) ODE_example.ipynb: an example on solving ODE by matrix exponential (Day 4)
+(5) Transport.pdf: the optimal transportation problem (Day 4)
+(6) Optimal_transport_example.ipynb, desserts.py, sinkhorn_knoppy.py: an example of the optimal transportation problem (Day 4)
+(7) Portfolio_Selection_Convex_Optimization.pdf: portfolio selection problems and convex optimization (Day 4 and Day 7)
