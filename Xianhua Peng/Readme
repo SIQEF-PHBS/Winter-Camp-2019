@@ -7,3 +7,7 @@ The folder contains the following materials:
 (5) Transport.pdf: the optimal transportation problem (Day 4)
 (6) Optimal_transport_example.ipynb, desserts.py, sinkhorn_knoppy.py: an example of the optimal transportation problem (Day 4)
 (7) Portfolio_Selection_Convex_Optimization.pdf: portfolio selection problems and convex optimization (Day 4 and Day 7)
+(8) CVXPY.pdf: introduction to the CVXPY package (Day 7)
+(9) cvxpy.ipynb: the notebook on the introduction to the CVXPY package (Day 7)
+(10) control.ipynb: an example of solving a control problem using CVXPY (Day 7)
+(11) portfolio_optimization.ipynb: examples of solving portfolio selection problems using CVXPY (Day 7)
